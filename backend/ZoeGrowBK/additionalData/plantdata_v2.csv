@@ -1,0 +1,10 @@
+id,min_temperature,max_temperature,water_every_X_days,name,pet_safe,harvest_every_X_days,repot_every_X_years,feed_every_X_months,harvest_in_X_days,light,humidity,image,climatezones
+5,13,33,10,Strelitzia,f,,4,2,,HIGH,HIGH,"","{Af,Am,Cfa,Cfb,Cwa,Cwb,As,Aw,Cfc,Cwc}"
+6,18,33,10,Monstera Deliciosa,f,,2,12,,MEDIUM,HIGH,"","{Af,Am,Cfa,Cfb,Cwa,Cwb}"
+7,18,33,4,Basil,t,15,,1,60,MEDIUM,MEDIUM,"","{Cfa,Cfb,Cwa,Cwb,Cfc,Cwc,Csa,Csb,Csc,Dfa,Dwa,Dfb,Dwb}"
+8,12,32,1,Tomato,f,,,3,150,HIGH,MEDIUM,"","{Cfa,Cfb,Cwa,Cwb,Cfc,Cwc,Csa,Csb,Csc,Dfa,Dwa,Dfb,Dwb,Dsa}"
+9,18,38,15,Aloe Vera,f,30,,3,180,HIGH,LOW,"","{BWh,BSh,BSk,As,Csa}"
+4,-6,26,2,Strawberries,t,90,,6,70,HIGH,MEDIUM,"","{Dfa,Cfa,Cfb,Cfc,Cwc,Cwb,Cwa,Csc,Dfb,Dfc,Dfd,Dwa,Dwb,Dwc,Dwd,Dsc}"
+10,-2,25,14,Oxalis,f,,2,1,,MEDIUM,MEDIUM,"","{Aw,BSh,BSk,Cfb,Cfa}"
+11,12,36,10,Rosemary,t,21,1,1,365,HIGH,LOW,"","{Csa,Csb,BSh}"
+12,4,33,10,Chamomile,t,,,,110,HIGH,LOW,"","{Csa,Csb,Cfb,Cfa}"
